@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870474224842",
+    "project_id": "stockmate-76804",
+    "storage_bucket": "stockmate-76804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870474224842:android:5035bff2c1744cfa94d033",
+        "android_client_info": {
+          "package_name": "com.example.stockmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870474224842-geeikoo3um8trn4vja4fr5ugjdm4imh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3LhI5WWrb-89J3xQ0ufnQxlFE9L_vTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870474224842-geeikoo3um8trn4vja4fr5ugjdm4imh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
